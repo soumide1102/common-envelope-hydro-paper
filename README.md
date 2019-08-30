@@ -14,8 +14,7 @@ Hydrodynamical simulation movie
 <br>
 
 <center>
-<a {font-size: 120px} href="logmdot3_fit_to_runs_g43.html">Coefficient of accretion rate fit for gamma four-third simulations</a>
+<a {font-size: 120px} href="/logmdot3_fit_to_runs_g43.html">Coefficient of accretion rate fit for gamma four-third simulations</a>
 <br>
-<a href="logmdot3_fit_to_runs_g43.html"><img src="logmdot_order3_g43.jpg" alt="C_a g43" style="float:left;width:525px;height:450px;border-radius:0%;margin: 20px 20px", align="middle">
 </center>
 
