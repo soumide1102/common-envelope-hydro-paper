@@ -13,6 +13,4 @@ Hydrodynamical simulation movie
 <br>
 <br>
 
-<hgroup id="d3o"><h1>
-	<a href="logmdot3_fit_to_runs_g43.html" class="btn">Interactive Map</a>
-	</hgroup>
+<a href="logmdot3_fit_to_runs_g43.html">Fit 1</a>
