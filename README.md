@@ -13,4 +13,4 @@ Hydrodynamical simulation movie
 <br>
 <br>
 
-<a href="logmdot3_fit_to_runs_g43.html">Fit 1</a>
+<a href="./fits/logmdot3_fit_to_runs_g43a.html">Fit 1</a>
