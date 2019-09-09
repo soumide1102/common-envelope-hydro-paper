@@ -8,7 +8,45 @@ aside#sidebar {
   width: 75px;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+
 #main-content {
   float: left;
-  width: 750px;
+  width: 800px;
+}
+
+header h1 {
+  width: 800px
+}
+
+header h2 {
+  width: 200px
+}
+
+header {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+
+#main-content h1 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h2 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h3 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h4 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h5 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h6 {
+  font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
 }
