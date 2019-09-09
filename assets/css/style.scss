@@ -3,3 +3,9 @@
 
 @import "{{ site.theme }}";
 
+
+
+aside#sidebar {
+  float: right;
+  width: 75px;
+}
