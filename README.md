@@ -12,4 +12,11 @@ Hydrodynamical simulation movie
 <br>
 <br>
 
+<h2>
+Coefficient of accretion rate and drag fits
+</h2>
+
 <a href="logmdot3_fit_to_runs_g43_nolfs.html">Coefficient of accretion rate fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations</a>
+<br>
+<center>
+<a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" alt="C_a g43" class="inline"/>
