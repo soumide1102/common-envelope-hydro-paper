@@ -11,13 +11,40 @@ Hydrodynamical simulation movie
 <br>
 <br>
 
+<br>
+<center>
 <h2>
 Coefficient of accretion rate and drag fits
 </h2>
-
+</center>
 <a href="logmdot3_fit_to_runs_g43_nolfs.html">C<sub>a</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations</a>
 <br>
 <center>
 <a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" alt="C_a g43" class="inline"/>
+</center>
+<br>
+<br>
+
+<a href="logdrag3_fit_to_runs_g43_nolfs.html">C<sub>d</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations</a>
+<br>
+<center>
+<a href="logdrag3_fit_to_runs_g43_nolfs.html"><img src="logdrag_order3_g43.jpg" alt="C_d g43" class="inline"/>
+</center>
+<br>
+<br>
+
+<a href="logmdot2_fit_to_runs_g53_nolfs.html">C<sub>a</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (5/3, 5/3) simulations</a>
+<br>
+<center>
+<a href="logmdot2_fit_to_runs_g53_nolfs.html"><img src="logmdot_order2_g53.jpg" alt="C_a g53" class="inline"/>
+</center>
+<br>
+<br>
+
+<a href="logdrag3_fit_to_runs_g53_nolfs.html">C<sub>d</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (5/3, 5/3) simulations</a>
+<br>
+<center>
+<a href="logdrag3_fit_to_runs_g53_nolfs.html"><img src="logdrag_order3_g53.jpg" alt="C_d g53" class="inline"/>
+</center>
 <br>
 <br>
