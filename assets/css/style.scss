@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: 85%;
+  max-width: 480px;
+  padding: 20px 10px;
+  margin: 0 0;
 }
 
