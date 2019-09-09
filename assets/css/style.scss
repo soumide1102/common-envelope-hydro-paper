@@ -4,16 +4,6 @@
 @import "{{ site.theme }}";
 
 .inner {
-  max-width: 75%;
+  max-width: 80%;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-
-html, body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
