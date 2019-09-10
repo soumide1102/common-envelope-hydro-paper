@@ -19,7 +19,7 @@ Coefficient of accretion rate and drag fits
 <h2>
 C<sub>a</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations
 </h2>
-<p><a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button" style="background:#474747 url(assets/images/blackbutton.png) 0 0 no-repeat; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 15px; width: 140px; height:35px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3);">Interactive plot</a></p>
+<p><a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button" style="background:#474747 url(assets/images/playbutton.png) 0 0 no-repeat; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 15px; width: 140px; height:35px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3);">Interactive plot</a></p>
 <br>
 <a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" alt="C_a g43" class="inline"/>
 <br>
