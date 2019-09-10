@@ -33,17 +33,14 @@ header {
 
 #main-content h1 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
-  content: "";
 }
 
 #main-content h2 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
-  content: "";
 }
 
 #main-content h3 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
-  content: "";
 }
 
 #main-content h4 {
@@ -56,4 +53,16 @@ header {
 
 #main-content h6 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+#main-content h1:before {
+content: "";
+}
+
+#main-content h2:before {
+content: "";
+}
+
+#main-content h3:before {
+content: "";
 }

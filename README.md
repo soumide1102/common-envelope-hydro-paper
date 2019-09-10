@@ -17,8 +17,9 @@ Coefficient of accretion rate and drag fits
 </h1>
 </center>
 <h2>
-<a href="logmdot3_fit_to_runs_g43_nolfs.html">C<sub>a</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations</a>
+C<sub>a</sub> (q, M<sub>&infin;</sub>) fit for (&Gamma;, &gamma;) = (4/3, 4/3) simulations
 </h2>
+<a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button">Interactive plot</a>
 <br>
 <a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" alt="C_a g43" class="inline"/>
 <br>
