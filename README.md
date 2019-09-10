@@ -4,6 +4,7 @@
 <h1>
 Hydrodynamical simulation movie
 </h1>
+<p>Movie of simulation performed with mass ratio q = 0.1, upstream Mach number M<sub>&infin;</sub> = 1.69. The top panel shows the formation of the shock and the evolution of the flow past the embedded object in the simulation. Plotted is the density in units of &rho;<sub>&infin;</sub> in the orbital (x-y) plane of the binary with the white dot at the coordinate origin representing the embedded companion object. The lines with arrowheads in white represent velocity streamlines of the flow. The bottom panel tracks the evolution of the coefficients of accretion C<sub>a</sub> and drag C<sub>d</sub> as a function of time. The time quoted in the movie is in code units R<sub>a</sub>/v<sub>&infin;</sub>.</p>
 <video width="640" height="480" controls>
 <source src="hydro_sim_q0pt1_erho0pt47_movie.mp4" type="video/mp4">
 </video>
