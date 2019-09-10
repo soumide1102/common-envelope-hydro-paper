@@ -34,8 +34,8 @@ C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simu
 </h2>
 </center>
 <p><a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 23px; width: 120px; height: 47px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 5px; padding-top: 5px; padding-bottom: 5px;">View<small> Interactive Plot</small></a></p>
-<div id="topcontainer">
-<a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" width="640" height="480" alt="C_a g43"/>
+<div style="text-align: center">
+<a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" width="75%" height="75%" alt="C_a g43" />
 </div>
 <br>
 <br>
