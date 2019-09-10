@@ -19,10 +19,12 @@ aside#sidebar {
 header h1 {
   width: 800px;
   font-size: 42px;
+  margin-left: -0.9em;
 }
 
 header h2 {
   width: 200px;
+  margin-left: -0.9em;
 }
 
 header {
@@ -31,14 +33,17 @@ header {
 
 #main-content h1 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+  content: "";
 }
 
 #main-content h2 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+  content: "";
 }
 
 #main-content h3 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
+  content: "";
 }
 
 #main-content h4 {
