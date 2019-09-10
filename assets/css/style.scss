@@ -69,6 +69,14 @@ content: "";
 
 #main-content h2:before {
 content: "";
+display: inline-block;
+vertical-align: middle;
+margin-right: 1em;
+position: relative;
+width: 25%;
+padding-bottom: 25%;
+overflow: hidden;
+background: #808080;
 }
 
 #main-content h3:before {
