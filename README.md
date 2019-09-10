@@ -20,8 +20,9 @@ Fits
 </center>
 <p>Presented below are three-dimensional interactive plots showing fitting relations between the coefficient of accretion <i>C</i><sub>a</sub> and coefficient of drag <i>C</i><sub>d</sub> in terms of the mass ratio <i>q</i> and upstream Mach number <i>M</i><sub>&infin;</sub> obtained on mapping the input parameters to the results from the hydrodynamical simulations.</p>
 <center>
+<ul style="list-style-type:square">
 <h2>
-C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simulations
+<li>C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simulations</li>
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>a</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (4/3, 4/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>a</sub> as a fuction of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
@@ -34,7 +35,7 @@ C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simu
 
 <center>
 <h2>
-C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simulations
+<li>C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simulations</li>
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>d</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (4/3, 4/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>d</sub> as a fuction of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
@@ -47,7 +48,7 @@ C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (4/3, 4/3) simu
 
 <center>
 <h2>
-C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simulations
+<li>C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simulations</li>
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>a</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (5/3, 5/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting second-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>a</sub> as a fuction of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
@@ -60,7 +61,7 @@ C<sub>a</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simu
 
 <center>
 <h2>
-C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simulations
+<li>C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simulations</li>
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>d</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (5/3, 5/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>d</sub> as a fuction of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
@@ -68,6 +69,7 @@ C<sub>d</sub> (q, M<sub>&infin;</sub>) from (&Gamma;, &gamma;) = (5/3, 5/3) simu
 <div style="text-align: center">
 <a href="logdrag3_fit_to_runs_g53_nolfs.html"><img src="logdrag_order3_g53.jpg" width="85%" height="85%" alt="C_d g53" align="middle"></a>
 </div>
+</ul>
 <br>
 <br>
 
