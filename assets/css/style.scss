@@ -99,7 +99,7 @@ header a.button {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   header h1, header h2 {
-    width: 690px;
+    width: 540px;
   }
   #main-content {
     width: 690px;
@@ -127,5 +127,10 @@ header a.button {
 
   header a.button {
     margin-right: 0;
+  }
+
+  #main-content video {
+    width: 85%;
+    height: 85%;
   }
 }
