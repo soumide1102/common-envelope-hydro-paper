@@ -99,8 +99,15 @@ header a.button {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   header h1, header h2 {
-    width: 480px;
+    width: 380px;
   }
+
+  header h1 {
+    font-size: 40px;
+  }
+  header h2 {
+    font-size: 16px;
+
   #main-content {
     width: 690px;
   }
