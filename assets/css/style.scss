@@ -36,7 +36,7 @@ header {
 #main-content h1 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
   color: #000000;
-  font-size: 38px;
+  font-size: 34px;
   margin-left: -1.5em;
   letter-spacing: 0;
 }
@@ -44,7 +44,7 @@ header {
 #main-content h2 {
   font-family: 'OpenSansRegular', 'Helvetica Neue', Helvetica, Arial, serif;
   color: #808080;
-  font-size: 24px;
+  font-size: 22px;
   margin-left: -1.5em;
 }
 
@@ -75,7 +75,7 @@ content: "";
   margin-right: 1em;
   position: relative;
   width: 4px;
-  height: 0.5em;
+  height: 4px;
   overflow: hidden;
   background: #808080;
 }
@@ -99,7 +99,7 @@ header a.button {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   header h1, header h2 {
-    width: 540px;
+    width: 0.5em;
   }
   #main-content {
     width: 690px;
