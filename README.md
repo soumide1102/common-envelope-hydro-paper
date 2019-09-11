@@ -7,7 +7,7 @@
 California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
 <br>
 <br>
-<p><font size="+1">This page is companion to the paper arxiv:XXX.XXXX. We present visualizations of one of the hydrodynamical simulations presented in the paper and the fitting formulae derived from the input parameters and the results of the simulation suites.</font></p>
+<p><font size="+1">This page is a companion to the paper arxiv:XXX.XXXX. We present visualizations of one of the hydrodynamical simulations presented in the paper and the fitting formulae derived from the mapping between the input parameters and results of the simulation suites.</font></p>
 <h1>
 Hydrodynamical simulation movie
 </h1>
