@@ -3,18 +3,8 @@
 <center>
 <p><b>Soumi De<sup><small>1,2</small></sup>, Morgan MacLeod<sup><small>3</small></sup>, Rosa Wallace Everson<sup><small>4,5</small></sup>, Ilya Mandel<sup><small>6</small></sup>, Enrico Ramirez-Ruiz<sup><small>4,5</small></sup></b></p>
 <br>
-<p><sup><small>1</small></sup><i>Department of Physics, Syracuse University, Syracuse, NY 13244, USA</i></p>
-<br>
-<p><sup><small>2</small></sup><i>Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</i></p>
-<br>
-<p><sup><small>3</small></sup><i>Harvard Smithsonian Center for Astrophysics, Cambridge, MA, USA</i></p>
-<br>
-<p><sup><small>4</small></sup><i>Department  of  Astronomy  and  Astrophysics,  University  of
-California, Santa Cruz, CA 95064</i></p>
-<br>
-<p><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i></p>
-<br>
-<p><sup><small>6</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
+<p><sup><small>1</small></sup><i>Department of Physics, Syracuse University, Syracuse, NY 13244, USA</i><br><sup><small>2</small></sup><i>Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</i><br><sup><small>3</small></sup><i>Harvard Smithsonian Center for Astrophysics, Cambridge, MA, USA</i><br><sup><small>4</small></sup><i>Department  of  Astronomy  and  Astrophysics,  University  of
+California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
 <br>
 <br>
 <p>This page is companion to the paper arxiv:XXX.XXXX. We present visualizations of one of the hydrodynamical simulations presented in the paper and the fitting formulae derived from the input parameters and the results of the simulation suites.</p>
@@ -42,7 +32,7 @@ Fits
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>a</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (4/3, 4/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>a</sub> as a function of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
-<p><a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 120px; height: 43px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 5px; padding-top: 5px; padding-bottom: 5px;">View<small> Interactive Plot</small></a></p>
+<p><a href="logmdot3_fit_to_runs_g43_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 116px; height: 42px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 3px; padding-top: 3px; padding-bottom: 3px;">View<small> Interactive Plot</small></a></p>
 <div style="text-align: center">
 <a href="logmdot3_fit_to_runs_g43_nolfs.html"><img src="logmdot_order3_g43.jpg" width="85%" height="85%" alt="C_a g43" align="middle"></a>
 </div>
@@ -55,7 +45,7 @@ Fits
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>d</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (4/3, 4/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>d</sub> as a function of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
-<p><a href="logdrag3_fit_to_runs_g43_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 120px; height: 43px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 5px; padding-top: 5px; padding-bottom: 5px;">View<small> Interactive Plot</small></a></p>
+<p><a href="logdrag3_fit_to_runs_g43_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 116px; height: 42px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 3px; padding-top: 3px; padding-bottom: 3px;">View<small> Interactive Plot</small></a></p>
 <div style="text-align: center">
 <a href="logdrag3_fit_to_runs_g43_nolfs.html"><img src="logdrag_order3_g43.jpg" width="85%" height="85%" alt="C_d g43" align="middle"></a>
 </div>
@@ -68,7 +58,7 @@ Fits
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>a</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (5/3, 5/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting second-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>a</sub> as a function of (<i>q</i>, <i>M</i><sub>&infin;</sub>).</p>
-<p><a href="logmdot2_fit_to_runs_g53_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 120px; height: 43px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 5px; padding-top: 5px; padding-bottom: 5px;">View<small> Interactive Plot</small></a></p>
+<p><a href="logmdot2_fit_to_runs_g53_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 116px; height: 42px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 3px; padding-top: 3px; padding-bottom: 3px;">View<small> Interactive Plot</small></a></p>
 <div style="text-align: center">
 <a href="logmdot2_fit_to_runs_g53_nolfs.html"><img src="logmdot_order2_g53.jpg" width="85%" height="85%" alt="C_a g53" align="middle"></a>
 </div>
@@ -81,7 +71,7 @@ Fits
 </h2>
 </center>
 <p>The red dots represent the <i>log</i><sub>10</sub><i>C</i><sub>d</sub> results obtained from the (<i>&Gamma;</i>, <i>&gamma;</i>) = (5/3, 5/3) hydrodynamical simulations with <i>q</i> and <i>M</i><sub>&infin;</sub> parameters. The three-dimensional surface shows the best fitting third-order polynomial relation of <i>log</i><sub>10</sub><i>C</i><sub>d</sub> as a function of (<i>q</i>, <i>M</i><sub>&infin;</sub>.</p>
-<p><a href="logdrag3_fit_to_runs_g53_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 120px; height: 43px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 5px; padding-top: 5px; padding-bottom: 5px;">View<small> Interactive Plot</small></a></p>
+<p><a href="logdrag3_fit_to_runs_g53_nolfs.html" class="button" style="background:#2d81c5 0 0 no-repeat; color: #fff; border: solid 1px #474747; text-decoration: none;display: inline-block;font-size: 19px; width: 116px; height: 42px; text-align: center; line-height: 1.2; -webkit-border-radius: 1em; -moz-border-radius: 1em; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); padding-left: 3px; padding-top: 3px; padding-bottom: 3px;">View<small> Interactive Plot</small></a></p>
 <div style="text-align: center">
 <a href="logdrag3_fit_to_runs_g53_nolfs.html"><img src="logdrag_order3_g53.jpg" width="85%" height="85%" alt="C_d g53" align="middle"></a>
 </div>
