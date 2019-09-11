@@ -75,7 +75,7 @@ content: "";
   margin-right: 1em;
   position: relative;
   width: 4px;
-  height: 4px;
+  height: 0.5em;
   overflow: hidden;
   background: #808080;
 }
@@ -99,7 +99,7 @@ header a.button {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   header h1, header h2 {
-    width: 0.5em;
+    width: 480px;
   }
   #main-content {
     width: 690px;
@@ -133,4 +133,17 @@ header a.button {
     width: 85%;
     height: 85%;
   }
+
+  #main-content h2:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 1em;
+  position: relative;
+  width: 4px;
+  height: 4px;
+  overflow: hidden;
+  background: #808080;
+}
+
 }
