@@ -1,7 +1,7 @@
 <html>
 <br>
 <center>
-<p><b><large>Soumi De</large><sup><small>1,2</small></sup>, <large>Morgan MacLeod</large><sup><small>3</small></sup>, <large>Rosa Wallace Everson</large><sup><small>4,5</small></sup>, <large>Ilya Mandel</large><sup><small>6</small></sup>, <large>Enrico Ramirez-Ruiz</large><sup><small>4,5</small></sup></b></p>
+<p><b><font size="+4">Soumi De</font><sup><small>1,2</small></sup>, <font size="+2">Morgan MacLeod</font><sup><small>3</small></sup>, <font size="+2">Rosa Wallace Everson</font><sup><small>4,5</small></sup>, <font size="+2">Ilya Mandel</font><sup><small>6</small></sup>, <font size="+2">Enrico Ramirez-Ruiz</font><sup><small>4,5</small></sup></b></p>
 <br>
 <p><sup><small>1</small></sup><i>Department of Physics, Syracuse University, Syracuse, NY 13244, USA</i><br><sup><small>2</small></sup><i>Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</i><br><sup><small>3</small></sup><i>Harvard Smithsonian Center for Astrophysics, Cambridge, MA, USA</i><br><sup><small>4</small></sup><i>Department  of  Astronomy  and  Astrophysics,  University  of
 California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
