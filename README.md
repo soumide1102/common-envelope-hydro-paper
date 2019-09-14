@@ -1,10 +1,10 @@
 <html>
 <br>
 <center>
-<p><b><font size="+1">Soumi De</font><sup><small>1,2</small></sup>, <font size="+1">Morgan MacLeod</font><sup><small>3</small></sup>, <font size="+1">Rosa Wallace Everson</font><sup><small>4,5</small></sup>, <font size="+1">Ilya Mandel</font><sup><small>6</small></sup>, <font size="+1">Enrico Ramirez-Ruiz</font><sup><small>4,5</small></sup></b></p>
+<p><b><font size="+1">Soumi De</font><sup><small>1,2</small></sup>, <font size="+1">Morgan MacLeod</font><sup><small>3</small></sup>, <font size="+1">Rosa Wallace Everson</font><sup><small>4,5</small></sup>, <font size="+1">Andrea Antoni</font><sup><small>6</small></sup>, <font size="+1">Ilya Mandel</font><sup><small>7</small></sup>, <font size="+1">Enrico Ramirez-Ruiz</font><sup><small>4,5</small></sup></b></p>
 <br>
 <p><sup><small>1</small></sup><i>Department of Physics, Syracuse University, Syracuse, NY 13244, USA</i><br><sup><small>2</small></sup><i>Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</i><br><sup><small>3</small></sup><i>Harvard Smithsonian Center for Astrophysics, Cambridge, MA, USA</i><br><sup><small>4</small></sup><i>Department  of  Astronomy  and  Astrophysics,  University  of
-California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
+California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>Department of Astronomy, University of California, Berkeley, CA 94720, USA</i><br><sup><small>7</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
 <br>
 <br>
 <p><font size="+1">This page is a companion to the paper arxiv:XXX.XXXX. We present visualizations of one of the hydrodynamical simulations presented in the paper and the fitting formulae derived from the mapping between the input parameters and results of the simulation suites.</font></p>
