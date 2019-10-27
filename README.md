@@ -79,9 +79,9 @@ Fits
 <br>
 
 <h3>
-Acknowledgements
+Software
 </h3>
-<p><i>Software: </i> <a href="http://flash.uchicago.edu/site/flashcode/">FLASH</a>, <a href="https://yt-project.org/">yt</a>, <a href="https://plot.ly/">Plotly</a>, Matplotlib, <a href="https://www.astropy.org/">astropy</a>. Resources supporting this work were provided by the NASA High-End Computing (HEC) Program through the NASA Advanced Supercomputing (NAS) Division at Ames Research Center, by the Institute for Advanced Study, by the University of Copenhagen high-performance computing cluster funded by a grant from VILLUM FONDEN (project number 16599), and by Syracuse University. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.</p>
+<p><a href="http://flash.uchicago.edu/site/flashcode/">FLASH</a>, <a href="https://yt-project.org/">yt</a>, <a href="https://plot.ly/">Plotly</a>, Matplotlib, <a href="https://www.astropy.org/">astropy</a>. Resources supporting this work were provided by the NASA High-End Computing (HEC) Program through the NASA Advanced Supercomputing (NAS) Division at Ames Research Center, by the Institute for Advanced Study, by the University of Copenhagen high-performance computing cluster funded by a grant from VILLUM FONDEN (project number 16599), and by Syracuse University.</p>
 <br>
 <br>
 
