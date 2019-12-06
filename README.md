@@ -4,7 +4,7 @@
 <p><b><font size="+1">Soumi De</font><sup><small>1,2</small></sup>, <font size="+1">Morgan MacLeod</font><sup><small>3</small></sup>, <font size="+1">Rosa Wallace Everson</font><sup><small>4,5</small></sup>, <font size="+1">Andrea Antoni</font><sup><small>6</small></sup>, <font size="+1">Ilya Mandel</font><sup><small>7,8,9,5</small></sup>, <font size="+1">Enrico Ramirez-Ruiz</font><sup><small>4,5</small></sup></b></p>
 <br>
 <p><sup><small>1</small></sup><i>Department of Physics, Syracuse University, Syracuse, NY 13244, USA</i><br><sup><small>2</small></sup><i>Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</i><br><sup><small>3</small></sup><i>Harvard Smithsonian Center for Astrophysics, Cambridge, MA, USA</i><br><sup><small>4</small></sup><i>Department  of  Astronomy  and  Astrophysics,  University  of
-California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>Department of Astronomy, University of California, Berkeley, CA 94720, USA</i><br><sup><small>7</small></sup><i>School of Physics and Astronomy, Monash University, Clayton, VIC 3800, Australia</i><br><sup><small>8</small></sup><i>OzGrav: The ARC Centre of Excellence for Gravitational Wave Discovery, Australia</i><br><sup><small>7</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
+California, Santa Cruz, CA 95064</i><br><sup><small>5</small></sup><i>DARK, Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark</i><br><sup><small>6</small></sup><i>Department of Astronomy, University of California, Berkeley, CA 94720, USA</i><br><sup><small>7</small></sup><i>School of Physics and Astronomy, Monash University, Clayton, VIC 3800, Australia</i><br><sup><small>8</small></sup><i>OzGrav: The ARC Centre of Excellence for Gravitational Wave Discovery, Australia</i><br><sup><small>9</small></sup><i>School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</i></p>
 <br>
 <br>
 <p><font size="+1">This page is a companion to the paper <a href="https://arxiv.org/abs/1910.13333">arXiv:1910.13333</a>. We present visualizations of one of the hydrodynamical simulations presented in the paper and the fitting formulae derived from the mapping between the input parameters and results of the simulation suites.</font></p>
@@ -86,7 +86,7 @@ Software
 <h3>
 Computing Resources
 </h3>
-<p>Resources supporting this work were provided by the NASA High-End Computing (HEC) Program through the NASA Advanced Supercomputing (NAS) Division at Ames Research Center, by the Institute for Advanced Study, by the University of Copenhagen high-performance computing cluster funded by a grant from VILLUM FONDEN (project number 16599), and by Syracuse University. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.</p>
+<p>Resources supporting this work were provided by the NASA High-End Computing (HEC) Program through the NASA Advanced Supercomputing (NAS) Division at Ames Research Center, by the Institute for Advanced Study, by the University of Copenhagen high-performance computing cluster funded by a grant from VILLUM FONDEN (project number 16599), and by Syracuse University.</p>
 <br>
 <br>
 
